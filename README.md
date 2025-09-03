@@ -1,4 +1,4 @@
-# FPGA_4th_A0321
+# FPGA_4th_A0321 
 
 This is a repository of A0321 in the 4th FPGA competition. You can obtain the codes of this project about ‘Mechanical Arm Controlled by Brain Based on BCI and LightTCN Networks’ here.
 
